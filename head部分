@@ -1,0 +1,12 @@
+head部分
+
+按照正常格式
+<html>是大标签，里面包含了<meta>、<title>、<link>、<script>
+
+首先：<html>有一个xmlns属性
+
+其次：<meta>标签
+
+然后：<link>标签
+
+最后：<script>标签
